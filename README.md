@@ -88,3 +88,4 @@ No se entrega Dockerfile ni configuracion de Nginx. Eso se construye en los paso
 
 Recuerda: el navegador nunca habla con Flask directamente. Siempre entra por Nginx, que reenvia a Gunicorn y luego Flask.
 # Fiesta-Meter
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/32c08502-7138-475c-a5be-53ffdc477f97" />
